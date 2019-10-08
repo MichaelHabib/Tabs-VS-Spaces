@@ -1,0 +1,19 @@
+= Just Use Tabs Already
+
+== Keep in mind 
+- We need objective arguments. *One's personal preference of how indentation should appear should NOT be made into programming standards*. We need to ensure the code is consistent then let the user determine how it's rendered. Tabs allow this, but spaces do not !
+
+== Why use tabs instead of spaces ?
+- 1 tab = 1 indentation .
+- Most (if not all) of editors allow visual control of how tabs are rendered.
+- Tab column indentation is dynamic. Allows collaborators to provide consistent code without sacrificing visual indentation preference. 
+- Allowing preferred user rendering of the indentation with the help of tabs, will improve the user's comprehension speed of new code.
+
+
+== Debunked Arguments 
+- IDEs "treat" tabs differently . FALSE : IDEs will always treat a tab like a tab and gives the user control of the visual representation. Remember we are NOT trying to force one *personal preference* as a standard, so the number of columns used by the IDE to represent the tab indentation is no one's business but the user's ! If someone wants to show tabs as 20 column indentation, then more power to them !
+- 
+
+
+== Useful Links
+- https://blog.codinghorror.com/death-to-the-space-infidels/
