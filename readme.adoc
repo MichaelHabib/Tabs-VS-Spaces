@@ -17,3 +17,4 @@
 
 == Useful Links
 - https://blog.codinghorror.com/death-to-the-space-infidels/
+- Sample .editorconfig : https://github.com/MichaelHabib/bliki/blob/master/source/_information-technology/software_ide_general-setup-guide.adoc
