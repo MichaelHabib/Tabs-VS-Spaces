@@ -16,7 +16,7 @@
 
 == Other Questions
 - Why not use both tabs & spaces ?
-That can create an issue if contributors  use different indentation methods, that could show as changes by gi. Also, combining spaces + tabs in the same file, will render things incorrectly .
+That can create an issue if contributors  use different indentation methods, which could show as changes by git or other VCS. Also, combining spaces + tabs in the same file, will render things incorrectly .
 Imagine one function definition using tabs + spaces after setting tab width to 6 columns , thing will be out of alignment and harder to read .
 
 
