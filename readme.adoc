@@ -14,7 +14,14 @@
 - IDEs "treat" tabs differently . FALSE : IDEs will always treat a tab like a tab and gives the user control of the visual representation. Remember we are NOT trying to force one *personal preference* as a standard, so the number of columns used by the IDE to represent the tab indentation is no one's business but the user's ! If someone wants to show tabs as 20 column indentation, then more power to them !
 - 
 
+== Other Questions
+- Why not use both tabs & spaces ?
+That can create an issue if contributors  use different indentation methods, that could show as changes by gi. Also, combining spaces + tabs in the same file, will render things incorrectly .
+Imagine one function definition using tabs + spaces after setting tab width to 6 columns , thing will be out of alignment and harder to read .
+
 
 == Useful Links
 - https://blog.codinghorror.com/death-to-the-space-infidels/
 - Sample .editorconfig : https://github.com/MichaelHabib/bliki/blob/master/source/_information-technology/software_ide_general-setup-guide.adoc
+
+
