@@ -8,7 +8,7 @@
 - Most (if not all) of editors allow visual control of how tabs are rendered.
 - Tab column indentation is dynamic. Allows collaborators to provide consistent code without sacrificing visual indentation preference. 
 - Allowing preferred user rendering of the indentation with the help of tabs, will improve the user's comprehension speed of new code.
-
+- Spaces take longer to maintain & more prone to errors.
 
 == Debunked Arguments 
 - IDEs "treat" tabs differently . FALSE : IDEs will always treat a tab like a tab and gives the user control of the visual representation. Remember we are NOT trying to force one *personal preference* as a standard, so the number of columns used by the IDE to represent the tab indentation is no one's business but the user's ! If someone wants to show tabs as 20 column indentation, then more power to them !
