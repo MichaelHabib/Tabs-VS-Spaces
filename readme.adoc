@@ -22,6 +22,7 @@ Imagine one function definition using tabs + spaces after setting tab width to 6
 
 == Useful Links
 - https://blog.codinghorror.com/death-to-the-space-infidels/
+- https://peterbraden.co.uk/article/space-infidel/
 - Sample .editorconfig : https://github.com/MichaelHabib/bliki/blob/master/source/_information-technology/software_ide_general-setup-guide.adoc
 
 
