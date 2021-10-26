@@ -1,5 +1,4 @@
-= Just Use Tabs Already
-
+= Tabs VS Spaces!
 == Keep in mind 
 - We need objective arguments. *One's personal preference of how indentation should appear should NOT be made into programming standards*. We need to ensure the code is consistent then let the user determine how it's rendered. Tabs allow this, but spaces do not !
 
